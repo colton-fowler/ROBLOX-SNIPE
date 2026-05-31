@@ -9,6 +9,10 @@ A companion web app to find a Roblox player and join their game as fast as possi
 - **Player card** — avatar, display name, username, and online/in-game status
 - **Clear error states** — user not found, offline, private, joins disabled, rate limited
 
+## Screenshot
+
+![Roblox Snipe Search](./screenshots/player-search.png)
+
 ## Architecture
 
 ```
